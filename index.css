@@ -1,0 +1,123 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+a{
+	text-decoration: none;
+	/* display: block; */
+}	
+img{
+	display: block;
+}
+.top{
+	width: 100%;
+	height: 105px;
+	background-color: #A60000;
+	background-image: url(http://file.tuweia.cn/M00/35/0C/CoPea1UrJm6AfIb_AAFWqj-Bk-g239.png);
+	margin: 0 auto;
+}
+.top .con{
+	width: 1180px;
+	height: 105px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+.top .con .img_left{
+	width: 272px;
+	height: 64px;
+	background-color: blue;
+	background-image: url('img/01.png');
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	margin: 20px 0;
+	float: left;
+}
+.top .con .dh{
+	width: 400px;
+	height: 35px;
+	float: right;
+	margin-top:50px;
+}
+.top .con .dh a{
+	width: auto;
+	height: 100%;
+	font-size: 12px;
+	line-height: 44px;
+	color: #fff; 
+	text-align: center;
+	float: right;
+	margin: 0 30px;
+}
+.dhang{
+	width: 100%;
+	height: 58px;
+	background-color: #A41515;
+	margin: 0 auto;
+}
+.dhang .dzi{
+	width: 100%;
+	height: auto;
+	line-height: 58px;
+	text-align: center;
+}
+.dhang .dzi a{
+	width: auto;
+	height: auto;
+	font-size: 15px;
+	color: #fff; 
+	margin: 0 30px;
+}
+.lobo{
+	width: 100%;
+	height: 533px;
+	background-color: pink;
+	margin: 0 auto;
+}
+.lobo .lobokua {
+	width: 1600px;
+	height: 533px;
+	background-color: green;
+	background-image: url('img/lobo01.jpg');
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	margin: 0 auto;
+}
+.xdh{
+	width: 100%;
+	height: 63px;
+	background-color: #B41312;
+	margin: 0 auto;
+}
+.xdh .xdhz{
+	width: 520px;
+	height: 63px;
+	margin: 0 auto;
+}
+.xdh .xdhz a{
+	width: auto;
+	height: 100%;
+	font-size: 15px;
+	line-height: 63px;
+	color: #fff; 
+	text-align: center;
+	margin: 0 30px;
+	float: left;
+}
+.foot1{
+	width: 100%;
+	height: 42px;
+	background-color: #ccc;
+	margin: 0 auto;
+}
+.foot2{
+	width: 100%;
+	height: 42px;
+	background-color: #ccc;
+	margin: 0 auto;
+}
+.foot2 p{
+	width: 100%;
+	height: auto;
+	color: #000;
+	text-align: center;
+}
